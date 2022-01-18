@@ -45,7 +45,6 @@
 
   <ItemGroup>
     <Reference Include="lib\Assembly-CSharp.dll" />
-    <Reference Include="lib\SpinModdingUtilities.dll" />
   </ItemGroup>
 
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

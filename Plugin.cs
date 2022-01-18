@@ -4,7 +4,7 @@ using HarmonyLib;
 using System.Reflection;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using SMU.Reflection;
+
 namespace NoIntro
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]

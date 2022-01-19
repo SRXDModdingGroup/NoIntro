@@ -1,4 +1,4 @@
-﻿namespace NoIntro
+namespace NoIntro
 {
     class PluginInfo
     {

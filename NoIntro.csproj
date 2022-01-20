@@ -4,7 +4,7 @@
     <ProjectGuid>{A0CADDBC-AD61-4452-94A0-1A62221240DD}</ProjectGuid>
     <Product>NoIntro</Product>
     <TargetFramework>netstandard21</TargetFramework>
-    <Version>1</Version>
+    <Version>1.2.0</Version>
     <Copyright>Copyright © 2022</Copyright>
   </PropertyGroup>
 
